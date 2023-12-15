@@ -1,6 +1,40 @@
 [![bobur56.jpg](https://i.postimg.cc/wjmVqHZX/bobur56.jpg)](https://postimg.cc/5Xfvpcxy)
 # 💫Oбо мне :
-Я сделал свой первый шаг к своей цели, намереваясь стать программистом с целью сменить профессию, и записался на курс по языкам программирования Python в учебном центре Najot Ta'lim, где я прошел курсы по языку программирования Python и получил знания по PostgreSQL и Django Framework. Чтобы в будущем стать зрелым веб-разработчиком, я хотел бы добавить опыт работы в новых проектах, изучая свои вышеперечисленные знания на практике.
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mening Birinchi Veb Sahifam</title>
+</head>
+<body>
+    <header>
+        <h1>Salom, Dunyo!</h1>
+        <p>Men HTML orqali veb-sahifa yaratishni o'rganmoqdaman.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Mening Kurslardan O'rgangan Tilim:</h2>
+            <ul>
+                <li>Python</li>
+                <li>PostgreSQL</li>
+                <li>Django Framework</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Mening Maqsadim:</h2>
+            <p>Men zamonaviy veb-razrabotchisi bo'lishni maqsad qilganman. Endi men HTML bilan tanishayman.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Mening Veb Sahifam. Barcha Huquqlar Himoyalangan.</p>
+    </footer>
+</body>
+</html>
+
 
 ## 🌐Социальные сети
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaxb28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bobur2828) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/bobur2828) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bobur2828) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bobur2828) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/bobur2828) 
