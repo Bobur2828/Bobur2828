@@ -1,4 +1,4 @@
-<img align = "rigth" alt="coding" width ="400" src="https://postimg.cc/9wRFxKZS"
+<img align = "rigth" alt="coding" width ="400" src="https://i.postimg.cc/ZnjBqhRT/1.png"
 
 # 💫About Me :
 I aimed to change my profession and become a programmer, and my first step to achieving my goals was enrolling in the course of the Python programming languages Training Center at the "Najot Ta'lim" Training Center, where I completed courses in the Python programming language and PostgreSQL and Django frameworks. For my goal of becoming a mature web developer in the future, I want to learn my above knowledge in practice and add work experience in new projects.
