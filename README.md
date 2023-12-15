@@ -1,7 +1,7 @@
 [![Bobur23.jpg](https://i.postimg.cc/C5n94bZX/Bobur23.jpg)](https://postimg.cc/JHmTrD55)
 <h1 align="center">Привет 👋, Я Бобур Гуломов</h1>
 <h3 align="center">Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Vycd.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bobur2828&label=Profile%20views&color=0e75b6&style=flat" alt="bobur2828" /> </p>
 
