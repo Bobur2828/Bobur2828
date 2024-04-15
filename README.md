@@ -1,4 +1,4 @@
-[![bobur56.jpg](https://i.postimg.cc/wjmVqHZX/bobur56.jpg)](https://postimg.cc/5Xfvpcxy)
+[![Bobur-Gulomov.png](https://i.postimg.cc/MHTCt9HY/Bobur-Gulomov.png)](https://postimg.cc/0MTXydp6)
 # 💫Привет,<b> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<b>меня зовут Бобур Гуломов :
 
  Я логичный и ориентированный на результат веб-программист, который решает технические проблемы.
