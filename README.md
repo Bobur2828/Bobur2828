@@ -1,5 +1,5 @@
 [![bobur56.jpg](https://i.postimg.cc/wjmVqHZX/bobur56.jpg)](https://postimg.cc/5Xfvpcxy)
-**I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.**
+# 💫Привет,<b> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<b>меня зовут Бобур Гуломов :
 - :telescope: Я логичный и ориентированный на результат веб-программист, который решает технические проблемы.
 
 - :seedling:У меня был большой опыт в области компьютерного программирования. 
