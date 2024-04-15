@@ -20,5 +20,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=bobur2828&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![codewars](https://www.codewars.com/users/Bobur2828/badges/large)](https://www.codewars.com/users/Bobur2828)  
+[![codewars](https://www.codewars.com/users/Bobur2828/badges/large)](https://www.codewars.com/users/Bobur2828)  ![](https://komarev.com/ghpvc/?username=Bobur2828-github-username)
   
