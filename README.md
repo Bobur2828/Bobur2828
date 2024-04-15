@@ -1,4 +1,4 @@
-![Bobur-Gulomov.png](https://i.postimg.cc/hPKsFX1H/Bobur-Gulomov.png)
+![Bobur-Gulomov.png](https://i.postimg.cc/MHq78LVy/Bobur-Gulomov.png)
 
 
  Я логичный и ориентированный на результат веб-программист, который решает технические проблемы.
