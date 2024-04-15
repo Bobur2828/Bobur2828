@@ -1,5 +1,12 @@
 [![bobur56.jpg](https://i.postimg.cc/wjmVqHZX/bobur56.jpg)](https://postimg.cc/5Xfvpcxy)
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 <b>**Я логичный и ориентированный на результат веб-программист, который решает технические проблемы.<b>У меня был большой опыт в области компьютерного программирования. Я занимаюсь созданием веб-сайтов и приложений для бэкэнд-части. У меня есть квалификация в следующих областях:**
 
 Бэкэнд-программирование через Python и Django.
