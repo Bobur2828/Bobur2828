@@ -1,13 +1,13 @@
 [![bobur56.jpg](https://i.postimg.cc/wjmVqHZX/bobur56.jpg)](https://postimg.cc/5Xfvpcxy)
 **I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.**
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Я логичный и ориентированный на результат веб-программист, который решает технические проблемы.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling:У меня был большой опыт в области компьютерного программирования. 
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: Я занимаюсь созданием веб-сайтов и приложений для бэкэнд-части. У меня есть квалификация в следующих областях:
 
 - :mailbox:How to reach me: [![codewars](https://www.codewars.com/users/Bobur2828/badges/small)](https://www.codewars.com/users/Bobur2828)  
-<b>**Я логичный и ориентированный на результат веб-программист, который решает технические проблемы.<b>У меня был большой опыт в области компьютерного программирования. Я занимаюсь созданием веб-сайтов и приложений для бэкэнд-части. У меня есть квалификация в следующих областях:**
+
 
 Бэкэнд-программирование через Python и Django.
 
