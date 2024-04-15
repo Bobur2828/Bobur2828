@@ -30,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" title="DJANGOREST" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Git" **alt="LINUX" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-plain.svg" title="ALGORITHMS" **alt="Git" width="40" height="40"/>
-  
+  [![codewars](https://www.codewars.com/users/Bobur2828/badges/large)](https://www.codewars.com/users/Bobur2828)  
   
   
   
@@ -38,8 +38,4 @@
 
 </div>
 
-#💻Codewars
----
-[![](https://visitcount.itsvg.in/api?id=bobur2828&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![codewars](https://www.codewars.com/users/Bobur2828/badges/large)](https://www.codewars.com/users/Bobur2828)  
