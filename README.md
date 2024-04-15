@@ -6,7 +6,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![codewars](https://www.codewars.com/users/Bobur2828/badges/large)](https://www.codewars.com/users/Bobur2828)  
+- :mailbox:How to reach me: [![codewars](https://www.codewars.com/users/Bobur2828/badges/small)](https://www.codewars.com/users/Bobur2828)  
 <b>**Я логичный и ориентированный на результат веб-программист, который решает технические проблемы.<b>У меня был большой опыт в области компьютерного программирования. Я занимаюсь созданием веб-сайтов и приложений для бэкэнд-части. У меня есть квалификация в следующих областях:**
 
 Бэкэнд-программирование через Python и Django.
