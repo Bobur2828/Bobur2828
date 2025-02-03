@@ -1,41 +1,45 @@
-# 💻 Bobur Gulomov | Backend Developer  
+![Bobur-Gulomov.png](https://i.postimg.cc/MHq78LVy/Bobur-Gulomov.png)
 
-🚀 **Backend Developer** | **Python** 🐍 | **Django** 🌱 | **PostgreSQL** 🏛 | **API Expert** 🌐  
 
-![Bobur Gulomov Banner](https://your-image-url.com/banner.jpg)  
+ Я логичный и ориентированный на результат веб-программист, который решает технические проблемы.
+У меня был большой опыт в области компьютерного программирования.
+Я занимаюсь созданием веб-сайтов и приложений для бэкэнд-части. У меня есть квалификация в следующих областях:
+Бэкэнд-программирование через Python и Django.
 
----  
+Интеграция RESTful API.
 
-## 📫 Menga Bog‘lanish  
+Базы данных (PostgreSQL).
 
-[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Shax_brend1)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/+79850402529)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/bobur2828)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shax_dev)  
+Работа с асинхронностью (Celery, Redis).
+<b>
+## 🌐Социальные сети
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/Shax_brend1)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=WhatsApp&logoColor=white)](https://wa.me/+79850402529)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/bobur2828)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shax_dev)
+[![codewars](https://www.codewars.com/users/Bobur2828/badges/small)](https://www.codewars.com/users/Bobur2828)  
 
----  
+# 💻Технический стек
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Git" **alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="POSTMAN" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="DJANGO" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" title="DJANGOREST" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Git" **alt="LINUX" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-plain.svg" title="ALGORITHMS" **alt="Git" width="40" height="40"/>
+ 
+  
+  
+  
+ 
 
-## 🛠 Tech Stack  
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-![Celery](https://img.shields.io/badge/Celery-%2300C7B7.svg?style=for-the-badge&logo=celery&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
----  
-
-## 📊 GitHub Statistika  
-
-![Bobur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bobur2828&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobur2828&layout=compact&theme=tokyonight)  
-
----  
-
-## 🏆 GitHub Awards  
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Bobur2828&theme=onedark)  
-
----
