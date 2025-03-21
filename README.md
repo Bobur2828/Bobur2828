@@ -32,13 +32,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="50" height="50"/>&nbsp;
-  
 </p>
 
 ---
 
+
 ## 🌐 Социальные сети
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bobur2828&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   <a href="https://t.me/Shax_brend1">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
